@@ -1,1 +1,3 @@
 # blendGAN
+
+Development in progress
